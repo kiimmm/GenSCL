@@ -28,7 +28,7 @@ By *Generalized Supervised Contrastive Loss*, we can seamlessly adapt Mixup/Cutm
 
 ## Running
 
-To apply knowledge distillation, pretrained teacher model (EfficientNetV2-M) is required and released [here]().
+To apply knowledge distillation, pretrained teacher model (EfficientNetV2-M) is required and released [here](https://www.dropbox.com/sh/io8u9mv8hh3bt4m/AACjNFDZIgPADoyU14OEqVQSa?dl=0).
 
 * CIFAR10
 
