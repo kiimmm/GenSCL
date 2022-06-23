@@ -22,7 +22,7 @@ Based on recent remarkable achievements of contrastive learning in self-supervis
 
 Our proposed *Generalized Supervised Contrastive Loss* in `loss.py`  takes a tuple of `features` and a tuple of `labels` as the input, and returns the loss. If `labels` is one-hot encoded label, it degenerates to Supervised Contrastive Loss.
 
-By *Generalized Supervised Contrastive Loss*, we can seamlessly adapt Mixup/Cutmix and Knowledge Distillation to Supervised Contrastive Learning.
+By *Generalized Supervised Contrastive Loss*, we can seamlessly adapt Mixup/Cutmix and knowledge distillation to Supervised Contrastive Learning.
 
 ![ex](figures/ex.jpeg)
 
