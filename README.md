@@ -2,7 +2,7 @@
 
 <img src="figures/genscl.png" alt="f1" style="zoom:50%;" />
 
-This is a PyTorch implementation of the GenSCL | [Paper](https://arxiv.org/abs/2206.00384)
+Official PyTorch implementation of the GenSCL | [Paper](https://arxiv.org/abs/2206.00384)
 
 Jaewon Kim and Jooyoung Chang and Sang Min Park
 
@@ -98,3 +98,4 @@ You have several extra options:
   year={2022}
 }
 ```
+
